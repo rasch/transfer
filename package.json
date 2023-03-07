@@ -1,0 +1,23 @@
+{
+  "name": "@rasch/transfer",
+  "version": "0.1.0",
+  "description": "share [encrypted] files using transfer.sh",
+  "type": "module",
+  "bin": {
+    "transfer": "transfer.sh"
+  },
+  "files": [
+    "transfer.sh"
+  ],
+  "keywords": [
+    "transfer.sh",
+    "share",
+    "upload"
+  ],
+  "author": "Randy Schneck <i@rasch.co>",
+  "license": "0BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasch/transfer.git"
+  }
+}
